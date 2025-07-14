@@ -40,6 +40,7 @@ def shorten(text, max_length=50):
 class ChatInterface:
     def input(self):
         question = input("You:")
+       
         return question
     
     def display(self, message):

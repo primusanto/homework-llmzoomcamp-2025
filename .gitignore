@@ -3,3 +3,5 @@
 
 db.qdrant/
 dlt/
+
+__pycache__/
